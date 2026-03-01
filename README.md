@@ -69,3 +69,9 @@ Entries for Juan Home 4034032233
 Entries for Juan Cell 5532233322
 Entries for Juan Work 6120092829
 ```
+
+---
+
+## For more complete instructions, follow the comments in the testHarness.java
+
+
